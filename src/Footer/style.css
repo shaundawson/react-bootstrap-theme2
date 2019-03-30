@@ -1,0 +1,22 @@
+.footer-copyright {
+    background-color: black!important;
+    font-size: 10px!important;
+    color: white!important;
+    margin-top: 0px!important;
+    margin-bottom:0px!important;
+}
+
+.fa-heart{
+    padding: 2px!important;
+}
+
+a {
+    color: white!important;
+}
+
+.footer-icons a {
+    padding-right: 20px!important;
+    color: white!important;
+    font-size: 12px;
+   }
+ 
