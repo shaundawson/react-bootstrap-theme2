@@ -7,7 +7,7 @@ const Contact = () => {
     <section>
     <div class="contact-form">
     <div class="row">
-    <div class="col-md">
+    <div class="col-md contact-column">
     <h4 class="h4-responsive  my-4">Send a message</h4>
     <div className="form-container">
     <HubspotForm
@@ -20,18 +20,6 @@ const Contact = () => {
     </div>
     </div>
     
-    <div class="col-md">
-        <a class="twitter-follow-button"
-        href="https://twitter.com/nandikayyy">
-        </a>
-        <a class="twitter-timeline" 
-        data-width="300" 
-        data-height="300"
-        data-link-color="#f5a5b9" 
-        data-tweet-limit="2"
-        data-chrome=" nofooter noscrollbar noheader"
-         href="https://twitter.com/nandikayyy?ref_src=twsrc%5Etfw">Tweets by nandikayyy</a> 
-        </div>
     
     </div>
 

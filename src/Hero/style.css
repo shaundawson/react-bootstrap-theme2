@@ -11,7 +11,7 @@ h4 {
 
 .jumbotron {
  background-image: url('https://i.imgur.com/UM4wI0I.png');
- background-color: black!important;
+ background-color: #060606!important;
  background-position: center!important;
  background-repeat: no-repeat!important;
  background-size: cover!important;
@@ -20,8 +20,7 @@ h4 {
  -o-background-size: cover!important;
  max-height: 100vh!important;
  min-height: 80vh!important;
- margin-top: 2px!important
-;
+ margin-top: 2px!important;
  margin-bottom: 2px!important;
 }
 
@@ -30,7 +29,7 @@ h4 {
    position: relative!important;
    text-align: center!important;
    width:90%!important;
-   padding-top:15%!important;
+   padding-top:1%!important;
 
   
 }
@@ -44,10 +43,12 @@ h4 {
 
   .fa-barcode {
     color:white!important;
-    font-size:90px!important;
+    font-size:60px!important;
     padding-bottom:10px!important;
+    padding-top:60px!important;
   }
   
   .btn-outline-warning {
     margin-top:10px!important;
+    font-size: 14px!important;
   }
