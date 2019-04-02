@@ -5,30 +5,31 @@ import HubspotForm from 'react-hubspot-form';
 const Contact = () => {
   return (
     <section>
+    <div class="jumbotron-fluid">
     <div class="contact-form">
-    <div class="row">
-    <div class="col-md contact-column">
-    <h4 class="h4-responsive  my-4">Send a message</h4>
-    <div className="form-container">
+    <center>
     <HubspotForm
-    portalId='5429329'
-    formId='b05dd7e5-19b3-4319-86be-067a50eb83ec'
-    onSubmit={() => console.log('Submit!')}
-    onReady={(form) => console.log('Form ready!')}
-    loading={<div>Loading...</div>}
-    />
+portalId='5688825'
+formId='44baf254-7849-4237-bfac-9378a2a80610'
+onSubmit={() => console.log('Submit!')}
+onReady={(form) => console.log('Form ready!')}
+loading={<div>Loading...</div>}
+/>
+</center>
     </div>
     </div>
     
     
-    </div>
+  
 
 
 
 
 
-</div>
+
 </section>
   );
 };
 export default Contact;
+
+

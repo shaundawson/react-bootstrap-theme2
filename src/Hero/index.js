@@ -16,7 +16,8 @@ const Hero = () => {
     <br></br> 
     Queer. Style Enthusiast. They/Them
     </h4>
-    <button type="button" class="btn btn-outline-warning">CONTACT</button>
+    <a href="/contact" class="btn btn-outline-warning" role="button" aria-disabled="true">CONTACT</a>
+   
     </div>
   </div>
 

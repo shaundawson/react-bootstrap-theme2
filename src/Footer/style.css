@@ -7,11 +7,12 @@
 }
 
 .fa-heart{
-    padding: 2px!important;
+    padding: 3px!important;
+    color: #f1ba4c!important;
 }
 
 a {
-    color: white!important;
+    color: #f1ba4c!important;
 }
 
 .footer-icons a {
