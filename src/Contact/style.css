@@ -1,12 +1,19 @@
 .div {
     padding: 10px!important;
     background-color: #060606!important;
+    text-align: center!important;
 }
 
 .contact-form {
     background-color: #060606!important;
-  
+    text-align: center!important;
     width: 100%!important;
-    padding-right: 60px!important;
-    padding-left:60px!important;
+    padding:50px!important;
+
+}
+
+.jumbotron-contact{
+    background-color: #060606!important;
+    text-align: center!important;
+
 }

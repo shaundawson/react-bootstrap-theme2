@@ -27,9 +27,20 @@ const Navbar = () => {
             <li className="nav-item">
               <a className="nav-link" href="/bio">Bio</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="/projects">Projects</a>
+            <ul className="nav navbar-nav navbar-right">
+            <li className="dropdown">
+              <a href="#" className="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects 
+              <span className="caret">
+              <i className="fas fa-caret-down"></i>
+        
+              </span></a>
+              <ul className="dropdown-menu">
+                <li><a href="https://www.blackfriendsdinner.com" target="blank" className="padding-list">Black Friends Dinner</a></li>
+                <li><a href="https://www.patreon.com/hopeandhardpills" target="blank" className="padding-list">Hope and Hard Pills</a></li>
+                <li><a href="https://www.assignedsex.com" target="blank" className="padding-list">Assigned Sex</a></li>
+              </ul>
             </li>
+          </ul>
             <li className="nav-item">
               <a className="nav-link" href="/live">!Live</a>
             </li>

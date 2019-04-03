@@ -5,7 +5,7 @@ import HubspotForm from 'react-hubspot-form';
 const Contact = () => {
   return (
     <section>
-    <div class="jumbotron-fluid">
+    <div class="jumbotron-contact">
     <div class="contact-form">
     <center>
     <HubspotForm

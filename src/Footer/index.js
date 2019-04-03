@@ -3,13 +3,15 @@ import "./style.css";
 
 const Footer = () => {
   return (
-    <div className="footer-copyright text-center py-3">
+    <div className="footer-copyright">
     <ul className='footer-icons'>
     <a href="https://www.nandikayyy.com">Home</a>
     <a href="https://www.nandikayyy.com/bio">Bio</a>
     <a href="https://www.nandikayyy.com/live">!Live</a>
     <a href="https://www.nandikayyy.com/contact">Contact</a>
     </ul>
+    <br></br> 
+    <br></br> 
     © 2019 Copyright
     <br></br> 
     Coded with

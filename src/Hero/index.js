@@ -5,7 +5,7 @@ import "./style.css";
 
 const Hero = () => {
   return (
-    <div className="jumbotron">
+    <div className="jumbotron container-fluid">
     <div className="container">  
     <i class="fas fa-barcode"></i>
     <h1>NANDIKAYYY</h1>
