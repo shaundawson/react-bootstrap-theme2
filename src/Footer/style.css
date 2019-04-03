@@ -2,11 +2,12 @@
     background-color: #060606!important;
     font-size: 8px!important;
     color: white!important;
-    padding-top:40px!important;
+    padding-top:0px!important;
     margin-top: 0px!important;
     margin-bottom:0px!important;
     text-align:center;
     width:100%!important;
+    padding-bottom:10px!important;
 
 }
 
@@ -27,4 +28,6 @@ a {
     font-size: 12px!important;   
    }
  
- 
+ .soundcloud{
+     padding-bottom:30px!important;
+ }

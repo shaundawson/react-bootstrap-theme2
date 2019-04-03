@@ -3,6 +3,7 @@ import "./style.css";
 
 
 
+
 const Hero = () => {
   return (
     <div className="jumbotron container-fluid">
@@ -17,9 +18,9 @@ const Hero = () => {
     Queer. Style Enthusiast. They/Them
     </h4>
     <a href="/contact" class="btn btn-outline-warning" role="button" aria-disabled="true">CONTACT</a>
-   
     </div>
   </div>
+  
 
   
   );

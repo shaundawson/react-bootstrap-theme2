@@ -1,7 +1,7 @@
 
 .bio {
-    padding-top:10px!!important;
-    margin:40px!important;
+    padding-top:20px!!important;
+    margin:30px!important;
     font-size: 14px!important;
 
 }
@@ -12,18 +12,34 @@
 
 }
 
+.col-sm {
+    padding-top:25px!important;
+    margin-right: 20px!important;
+    margin-left: 20px!important;
+    text-align:center!important;
+
+}
+
 .photos {
-    padding-top: 20px!important;
-    margin-bottom: 0px!important;
+    color: #f1ba4c!important;
+    padding-top: 5px!important;
+    padding-bottom: 5px!important;
     position: relative!important;
+    text-align:center!important;
 
 }
 
 .bio-image {
-    background-image: url('https://i.imgur.com/INcz7lt.png');
-    background-position: top!important;
+    background-image: url('https://i.imgur.com/78tB9QU.jpg');
+    background-position: center!important;
     background-repeat: no-repeat!important;
-    width: 100%!important;
+    background-size: contain!important;
+    -webkit-background-size: contain!important;
+    -moz-background-size: contain!important;
+    -o-background-size: contain!important;
+    height: 250px;
+ 
+    
 
 
 }

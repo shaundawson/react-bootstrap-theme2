@@ -6,7 +6,8 @@ const Bio = () => {
   return (
     <div className="bio">
     <div class="row">
-    <div class="col-sm bio-image">
+    <div class="col-12 bio-image">
+    
     </div>
     <div class="col-sm">
     <p>
